@@ -9,6 +9,6 @@ http://codev.kr/pages/viewpage.action?pageId=38502800
 
 by limkukhyun
 
-![codev logo](http://codev.kr/download/attachments/34144641/Codev%28letter%29_blue.png?version=1&modificationDate=1488556184887&api=v2)
+![codev logo](http://codev.kr/download/attachments/34144641/Codev%28letter%29_blue.png?version=1&modificationDate=1488556184887&api=v2 =210)
 
-![kuk logo](http://codev.kr/download/attachments/17727856/LIMC_Letter.png?version=1&modificationDate=1492766537166&api=v2)
+![kuk logo](http://codev.kr/download/attachments/17727856/LIMC_Letter.png?version=1&modificationDate=1492766537166&api=v2 =210)
